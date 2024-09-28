@@ -1,0 +1,3 @@
+@echo off
+echo Running the multi-language project setup...
+pause

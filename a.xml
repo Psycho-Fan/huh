@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <name>Multi-Language Project</name>
+    <description>This is an example project including multiple languages.</description>
+    <version>1.0.0</version>
+    <languages>
+        <language>HTML</language>
+        <language>CSS</language>
+        <language>JavaScript</language>
+        <language>Python</language>
+        <language>Batch</language>
+        <language>PHP</language>
+        <language>SQL</language>
+        <language>PowerShell</language>
+    </languages>
+</project>

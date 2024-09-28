@@ -1,0 +1,6 @@
+{
+    "name": "Multi-Language Project",
+    "description": "This is an example project including multiple languages.",
+    "version": "1.0.0",
+    "languages": ["HTML", "CSS", "JavaScript", "Python", "Batch", "PHP", "SQL", "PowerShell"]
+}
